@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Orel, a Front-end software engineer. 
+- 💪🏻 My primary expertise is with the Angular framework.
 - 💼 I’m currently working at **[ProteanTecs](https://www.proteantecs.com)**.
 - 🌱 I'm currently developing a new Angular library.
 - 🚀 My golden rule is: "Think twice, code once!"
